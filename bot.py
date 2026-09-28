@@ -15,7 +15,7 @@ from telegram.ext import (
 from telegram.constants import ParseMode
 
 # ================== تنظیمات ==================
-BOT_TOKEN = "8669573949:AAFWKdWp8njdHNuBLlzg__dBb9Z-N9YsiCg"
+BOT_TOKEN = "8669573949:AAHIkWyToZ6pVU7seqevX4Lle8DD6bgz1-s"
 ADMIN_ID = 8669573949
 
 # اسپانسرها
